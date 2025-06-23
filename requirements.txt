@@ -1,0 +1,10 @@
+
+openai
+faiss-cpu
+pandas
+scikit-learn
+streamlit
+PyPDF2
+tqdm
+nltk
+spacy
